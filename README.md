@@ -1,4 +1,4 @@
-# NovelFramer - [NaNoGenMo 2017](https://github.com/dariusk/NaNoGenMo-2017)
+# NovelFramer - [NaNoGenMo 2017](https://github.com/NaNoGenMo/2017)
 
 Working repository for my NaNoGenMo 2017 project.
 
